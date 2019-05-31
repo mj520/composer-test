@@ -1,0 +1,23 @@
+{
+  "name": "mj520/composer-test",
+  "description": "composer test",
+  "keywords": [
+    "composer",
+    "test"
+  ],
+  "type": "library",
+  "require": {},
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "nick",
+      "email": "402031593@qq.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "ComposerTest\\": "src/"
+    }
+  }
+}
