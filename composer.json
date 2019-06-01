@@ -19,5 +19,10 @@
     "psr-4": {
       "ComposerTest\\": "src/"
     }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "master"
+    }
   }
 }
