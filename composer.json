@@ -1,8 +1,8 @@
 {
-  "name": "mj520/composer-test",
-  "description": "composer test",
+  "name": "mj520/satis-test",
+  "description": "satis test",
   "keywords": [
-    "composer",
+    "satis",
     "test"
   ],
   "type": "library",
